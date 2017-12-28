@@ -5,3 +5,5 @@ Based on [Electron](https://github.com/electron/electron), implement messaging i
 - implement messaging in terminal using socket
 - create a desktop app GUI using [Electron](https://github.com/electron/electron)
 - assemble messaging component in Electron GUI
+
+## Dog Fucked QQ and Wechat!
